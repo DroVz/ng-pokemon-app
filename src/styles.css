@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.card{
+    display: flex;
+    width: 300px;
+    margin: 20px;
+}
+.card-image{
+    width: 800px;
+}
+h3{
+    font-size: 18pt;
+    margin: 0;
+}
+p{
+    font-size: 10pt;
+    margin:0 ;
+}
